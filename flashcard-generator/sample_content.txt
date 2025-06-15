@@ -1,0 +1,55 @@
+# Sample Biology Content for Testing
+
+## Cell Structure and Function
+
+Cells are the fundamental units of life. All living organisms are composed of one or more cells, and the cell is the smallest unit that can be said to be alive. There are two major types of cells: prokaryotic and eukaryotic.
+
+### Prokaryotic Cells
+
+Prokaryotic cells are simpler in structure and do not have a membrane-bound nucleus. Instead, their genetic material is freely suspended in the cytoplasm in a region called the nucleoid. Examples of prokaryotes include bacteria and archaea. These cells typically have:
+
+- Cell wall for structural support
+- Cell membrane that controls what enters and exits the cell
+- Cytoplasm where cellular processes occur
+- Ribosomes for protein synthesis
+- Genetic material (DNA) in the nucleoid region
+
+### Eukaryotic Cells
+
+Eukaryotic cells are more complex and contain a membrane-bound nucleus that houses the cell's DNA. They also contain various organelles, each with specific functions. Examples include plant cells, animal cells, and fungal cells.
+
+Key organelles in eukaryotic cells include:
+
+**Nucleus**: Controls cell activities and contains the cell's DNA
+**Mitochondria**: Powerhouses of the cell, produce ATP through cellular respiration
+**Endoplasmic Reticulum (ER)**: Network of membranes involved in protein and lipid synthesis
+**Golgi Apparatus**: Modifies, packages, and ships proteins from the ER
+**Ribosomes**: Sites of protein synthesis
+**Lysosomes**: Digest waste materials and break down worn-out organelles
+**Cytoskeleton**: Provides structural support and helps organize organelles
+
+### Photosynthesis
+
+Photosynthesis is the process by which plants, algae, and some bacteria convert light energy into chemical energy stored in glucose. This process is crucial for life on Earth as it produces oxygen and serves as the foundation of most food chains.
+
+The general equation for photosynthesis is:
+6CO2 + 6H2O + light energy → C6H12O6 + 6O2
+
+Photosynthesis occurs in two main stages:
+
+**Light-dependent reactions**: Occur in the thylakoids of chloroplasts. Chlorophyll absorbs light energy, which is used to split water molecules and produce ATP and NADPH.
+
+**Calvin Cycle (Light-independent reactions)**: Occurs in the stroma of chloroplasts. Uses ATP and NADPH from the light reactions to convert CO2 into glucose through carbon fixation.
+
+### Cellular Respiration
+
+Cellular respiration is the process by which cells break down glucose to produce ATP, the energy currency of cells. This process occurs in three main stages:
+
+1. **Glycolysis**: Breaks down glucose into pyruvate in the cytoplasm
+2. **Krebs Cycle**: Further breaks down pyruvate in the mitochondrial matrix
+3. **Electron Transport Chain**: Produces most ATP in the inner mitochondrial membrane
+
+The overall equation for cellular respiration is:
+C6H12O6 + 6O2 → 6CO2 + 6H2O + ATP
+
+This process is essentially the reverse of photosynthesis and demonstrates the interconnected nature of life processes.
